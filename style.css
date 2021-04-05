@@ -1,0 +1,16 @@
+body {
+  background-color: bisque;
+  font-family: cursive;
+}
+
+.form {
+  background-color: burlywood;
+  color: darkslategrey;
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+}
+
+.btn {
+  background-color: deepskyblue;
+  color: black;
+  border: 2px solid: black; 
+}
